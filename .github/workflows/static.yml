@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>资源合集整理</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .category {
+            margin-bottom: 30px;
+            padding: 15px;
+            border-left: 4px solid #337ab7;
+            background-color: #f8f9fa;
+        }
+        .category h2 {
+            color: #337ab7;
+            margin-top: 0;
+        }
+        .resource-item {
+            margin: 10px 0;
+            padding-left: 10px;
+            border-bottom: 1px dashed #eee;
+            padding-bottom: 5px;
+        }
+        a {
+            color: #337ab7;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>资源合集整理（最新版）</h1>
+
+    <!-- 音乐类资源 -->
+    <div class="category">
+        <h2>一、音乐类资源</h2>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/abd229aa1db2" target="_blank">「豆瓣音乐TOP榜 250张专辑（无损音乐）」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/e3e8d8c3f75c" target="_blank">【热门音乐无损FLAC格式】</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/6df35f1eba10" target="_blank">「【无损音乐集合】Beyond经典重现无损音乐合集」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.baidu.com/s/1997cImSpU0IHrhQ9qDzdxQ?pwd=zxcv" target="_blank">抖音热门歌曲500首</a>（提取码：zxcv）
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.baidu.com/s/1RMIs6jA5zoe-ViaGKtQ0mA?pwd=zxcv" target="_blank">林俊杰专辑合集</a>（提取码：zxcv）
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.baidu.com/s/18oxZfbh290niA-7E_K_Kgg?pwd=qwer" target="_blank">周杰伦专辑合集</a>（提取码：qwer）
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.baidu.com/s/1RSUNoy0GDFNCXTAt8PLldg?pwd=qwer" target="_blank">薛之谦专辑合集</a>（提取码：qwer）
+        </div>
+    </div>
+
+    <!-- 影视类资源 -->
+    <div class="category">
+        <h2>二、影视类资源</h2>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/532b1917b7da" target="_blank">「豆瓣top250电影」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/b0c69b2a3d37" target="_blank">「经典电视剧」</a>
+        </div>
+    </div>
+
+    <!-- 书籍类资源 -->
+    <div class="category">
+        <h2>三、书籍类资源</h2>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/b32e46ddd15e" target="_blank">「诺贝尔文学奖历届(1901~2024)作品合集」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/0608e3f6ebef" target="_blank">「茅盾文学奖书单」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/ff9e9c87b968" target="_blank">「豆瓣读书TOP400合集」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/7f85a5d34dcd" target="_blank">「巴菲特的投资理财课（套装共5册）」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/cdb12babe904" target="_blank">「725本世界名著(英汉双语)」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/043240091cb7" target="_blank">「500套付费套装书 值得收藏」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/fafda79725d2" target="_blank">「300本商业经典书籍」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/33d0308259b1" target="_blank">「香港大学推荐的50本书籍」</a>
+        </div>
+    </div>
+
+    <!-- 学习与课程类资源 -->
+    <div class="category">
+        <h2>四、学习与课程类资源</h2>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/247e64b070c2" target="_blank">「知识星球 付费课程（400篇）」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/c27d2ab443e4" target="_blank">「微专业-新媒体视频导演」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/0ded7c3af621" target="_blank">「微专业 - 交互设计师：3个月成为年薪20万的交互设计师」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/60815d7ad2f7" target="_blank">「考公考编资料合集」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/3cb4463e4e04" target="_blank">「大学英语四六级」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/4b40a4c6d104" target="_blank">「百家讲坛」</a>
+        </div>
+    </div>
+
+    <!-- 工具与模板类资源 -->
+    <div class="category">
+        <h2>五、工具与模板类资源</h2>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/7625467af81c" target="_blank">「3000+PPT模版合集」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/d56d83780015" target="_blank">「所有分类简历模板1000+套」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/119e79b17215" target="_blank">「品牌资料库10000+」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/67d1d47c6935" target="_blank">「地图大全」</a>
+        </div>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/70e8bfa3a067" target="_blank">「【推荐】精选单页简历100+套」</a>
+        </div>
+    </div>
+
+    <!-- 其他资源 -->
+    <div class="category">
+        <h2>六、其他资源</h2>
+        <div class="resource-item">
+            <a href="https://pan.quark.cn/s/fdb35895390a" target="_blank">「iOS游戏软件合集」</a>
+        </div>
+    </div>
+
+    <p style="margin-top: 30px; color: #666; font-size: 14px;">注：部分资源可能因分享者设置或平台规则无法直接访问，建议遵守版权规定，支持正版资源。</p>
+</body>
+</html>
